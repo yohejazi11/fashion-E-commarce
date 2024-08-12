@@ -30,25 +30,25 @@ body{
 .instegram-header-icon{
     width: 32px;
     height: 32px;
-    background-image: url(icons/instagram.png);
+    background-image: url(../icons/instagram.png);
 }
 
 .twitter-header-icon{
     width: 32px;
     height: 32px;
-    background-image: url(icons/twitter.png);
+    background-image: url(../icons/twitter.png);
 }
 
 .facebook-header-icon{
     width: 32px;
     height: 32px;
-    background-image: url(icons/facebook.png);
+    background-image: url(../icons/facebook.png);
 }
 
 .tiktok-header-icon{
     width: 32px;
     height: 32px;
-    background-image: url(icons/tiktok.png);
+    background-image: url(../icons/tiktok.png);
 }
 
 .header-offer-contain{
@@ -118,7 +118,7 @@ header{
 .header-top-account{
     height: 32px;
     width: 32px;
-    background-image: url(icons/user.png);
+    background-image: url(../icons/user.png);
     border: none;
     background-color: transparent;
 }
@@ -126,7 +126,7 @@ header{
 .header-top-cart{
     height: 32px;
     width: 32px;
-    background-image: url(icons/shopping-bag.png);
+    background-image: url(../icons/shopping-bag.png);
     border: none;
     background-color: transparent;
 }
@@ -134,7 +134,7 @@ header{
 .header-top-favorite{
     height: 32px;
     width: 32px;
-    background-image: url(icons/love.png);
+    background-image: url(../icons/love.png);
     border: none;
     background-color: transparent;
 
